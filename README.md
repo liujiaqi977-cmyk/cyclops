@@ -21,9 +21,3 @@ The project requires R and the following packages:
 install.packages(c("tidyverse", "readxl", "gt", "dplyr", "ggplot2", "tidyr"))
 ```
 
-## Outputs
-
-| Output file | Description |
-| --- | --- |
-| `annual_rainfall_plot.png` | Annual rainfall trend plot |
-| `monthly_rainfall_boxplot.png` | Monthly rainfall boxplot |
